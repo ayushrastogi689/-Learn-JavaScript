@@ -1,1 +1,1 @@
-# -Learn-JavaScript
+# A repository to Learn about JavaScript
