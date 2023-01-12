@@ -8,3 +8,5 @@ var num = 34;
 
 let name = "Ayush";
 const id = "adf2324";
+
+console.log(name);
