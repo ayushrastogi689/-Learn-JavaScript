@@ -18,6 +18,7 @@ console.log(typeof score2);  // OP: number
 
 let score3 = "33abc";
 
-let valueInNumber3 = Number(score3);
+let valueInNumber3 = Number(score3); // Here we try to convert a string into a number where it easily got converted into a number, 
+                                     //but after checking we get to know its is not converted into the number
 
 console.log(typeof score2);  // OP: NaN - Not a number
