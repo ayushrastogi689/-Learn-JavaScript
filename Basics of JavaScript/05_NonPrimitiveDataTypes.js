@@ -12,4 +12,4 @@ const items = {
   "Pranav" : null;
 }
 
-console.log(["Ayush"]);
+console.log(items["Ayush"]);
