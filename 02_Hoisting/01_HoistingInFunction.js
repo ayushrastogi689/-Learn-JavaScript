@@ -1,4 +1,4 @@
-// Function invocation and Variable environment
+// Hoisting in JS function
 
 getName();
 
