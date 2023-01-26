@@ -1,6 +1,2 @@
-function a(){
-    console.log(b);
-}
+// Scope is directly related to lexical environment
 
-var b= 10;
-a();
