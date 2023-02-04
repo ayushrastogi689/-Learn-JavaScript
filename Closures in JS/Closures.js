@@ -1,5 +1,5 @@
 // Q What is closure?
-// Ans
+// Ans A function bundled togeather with its lexical scope is called as closures
 
 function x() {
   var a = 10; 
