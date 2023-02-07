@@ -16,3 +16,7 @@
 // fetch()
 // Local Storage
 // Location
+
+// The Browser gives access to Web APIs to JS engine by using a global object called "window". We can use window.console.log()
+
+// console.log() and window.console.log() are same thing
